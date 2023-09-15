@@ -2,7 +2,7 @@
 
 ### Curso: Analise e Desenvolvimento de Sistemas
 
-### Faculdade:  Serviço Nacional de Aprendizagem Comercial – Senac
+### Instituição:  Serviço Nacional de Aprendizagem Comercial – Senac
 
 ## Integrantes do Grupo
 
