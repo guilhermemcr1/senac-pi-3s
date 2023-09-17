@@ -26,9 +26,9 @@
 
 
 
-# Segunda parte do projeto
+## Segunda parte do projeto
 
 
-## Conforme solicitado foi desenvolvido utilizando ferramentas para modelagem das telas afim de ilustrar como deveria ser o funcionamento do software
+### Conforme solicitado foi desenvolvido utilizando ferramentas para modelagem das telas afim de ilustrar como deveria ser o funcionamento do software
 
 ### Clique no link ao lado para acessar os protótipos de tela ilustrados no FIGMA *[Projeto feito no FIGMA](https://www.figma.com/file/Fq6XjO1HifHAYbYtaFXk7u/Primeira-Tela?type=design&node-id=22%3A2&mode=design&t=utu1XnoYpKyZnF6N-1)*
