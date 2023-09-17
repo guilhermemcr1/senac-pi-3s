@@ -13,12 +13,14 @@
 - [Leo](https://github.com/)
 
 
-## Diagrama de Caso de uso
+## Primeira parte do projeto
+
+### Diagrama de Caso de uso
 
 ![Diagrama de Casos de Uso](/images/diagrama-caso-uso.png "Caso de Uso")
 
 
-## Diagrama de Caso de uso
+### Diagrama de Classes
 
 ![Diagrama de Classes](/images/diagrama-classes.PNG "Classes")
 
