@@ -23,4 +23,4 @@
 
 ## Diagrama de Caso de uso
 
-![Diagrama de Classes](/images/diagrama-classes.png "Classes")
+![Diagrama de Classes](/images/diagrama-classes.PNG "Classes")
