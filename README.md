@@ -18,9 +18,9 @@
 
 ## Diagrama de Caso de uso
 
-![Diagrama de Casos de Uso](/images/diagrama-caso-uso.jpg "Caso de Uso")
+![Diagrama de Casos de Uso](/images/diagrama-caso-uso.png "Caso de Uso")
 
 
 ## Diagrama de Caso de uso
 
-![Diagrama de Classes](/images/diagrama-classes.jpg "Classes")
+![Diagrama de Classes](/images/diagrama-classes.png "Classes")
