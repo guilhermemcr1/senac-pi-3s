@@ -11,3 +11,16 @@
 - [johnny-marques](https://github.com/johnny-marques)
 - [oliviavillegas](https://github.com/oliviavillegas)
 - [Leo](https://github.com/)
+
+
+
+
+
+## Diagrama de Caso de uso
+
+![Diagrama de Casos de Uso](/images/diagrama-caso-uso.jpg "Caso de Uso")
+
+
+## Diagrama de Caso de uso
+
+![Diagrama de Classes](/images/diagrama-classes.jpg "Classes")
